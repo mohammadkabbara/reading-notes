@@ -1,6 +1,7 @@
-# reading-notes
+# reading-note
 
-**Do you know what is meaning markdawn?**
+**firstly**
+***Do you know what is meaning markdawn?***
 
 *It is mainly used for designing the front face so that it works better and faster than html, and it can also add images and documents through it*
 
@@ -10,3 +11,12 @@
 3. add lists 
 
 and here the [link](https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86) for the markdawn wikabidia
+
+**secondrly**
+
+***growth mindset***
+
+*Talent alone is not enough without effort and perseverance. You cannot reach anything. If you do not believe in yourself, you will not succeed.
+This is the growth mindset*
+
+this [link](https://en.wikipedia.org/wiki/Mindset) for growth mindset wikabidia
