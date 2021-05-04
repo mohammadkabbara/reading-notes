@@ -1,22 +1,9 @@
 # reading-note
+**hi there** I am mohammad kabbara I am 24 years old I graduated from LTUC with major Electrical Electronics Engineering I came here to learn programming because I love technology and web design , that's why I am here
 
-**firstly**
-***Do you know what is meaning markdawn?***
 
-*It is mainly used for designing the front face so that it works better and faster than html, and it can also add images and documents through it*
-
-***Some of the things we can do with markdawn***
-1. add image
-2. add links
-3. add lists 
-
-and here the [link](https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86) for the markdawn wikabidia
-
-**secondrly**
-
-***growth mindset***
-
-*Talent alone is not enough without effort and perseverance. You cannot reach anything. If you do not believe in yourself, you will not succeed.
-This is the growth mindset*
-
-this [link](https://en.wikipedia.org/wiki/Mindset) for growth mindset wikabidia
+| file    | link|
+| ----------- | ----------- |
+|read02    |[link](read02.md)      |
+| read01   | [link] (read01.md)      |
+| lab01   | [link] (lab01.md)      |
