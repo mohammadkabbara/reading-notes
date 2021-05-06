@@ -7,7 +7,7 @@
 |read02    |[link](read02.md)      |
 | read01   | [link](read01.md)      |
 | lab01   | [link](lab01.md)   
-| read01   | [link](read01.md)     |
+| read03   | [link](read03.md)     |
 | read03b  | [link](read03b.md)   |  
 | read04   | [link](read04.md)     |
 
